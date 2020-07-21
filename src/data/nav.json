@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Products",
+      "path": "/products",
+      "sub": [
+        {
+          "label": "Product 1",
+          "path": "/products/1"
+        },
+        {
+          "label": "Product 2",
+          "path": "/products/2"
+        },
+        {
+          "label": "Product 2",
+          "path": "/products/3"
+        }
+      ]
+    },
+    {
+      "label": "About Us",
+      "path": "/about-us"
+    },
+    {
+      "label": "Employees",
+      "path": "/employees",
+      "sub": [
+        {
+          "label": "Employee1",
+          "path": "/employees/1"
+        }
+      ]
+    }
+  ]
+}
